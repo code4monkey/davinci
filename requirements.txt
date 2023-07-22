@@ -1,0 +1,5 @@
+flask
+flask-restful
+apispec
+marshmallow
+flask_apispec
